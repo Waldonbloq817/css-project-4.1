@@ -51,8 +51,9 @@ h1 {
     width: 80%;
   }
   .preview {
-    margin: 1% 1%;
-    width: 48%;
+    margin: 4px;
+    width: 39%;
+    display: inline-block;
   }
 }
 
